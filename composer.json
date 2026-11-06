@@ -1,5 +1,5 @@
 {
-    "name": "xqkeji/xq-com-admin-page",
+    "name": "xqkeji/xq-res-admin-page",
     "description": "新齐通用后台管理页面系统的普通页面的js、css等前端程序的composer包。",
     "type": "library",
     "license": "Apache-2.0",
@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-admin-page/src/":"resource/xq-admin-page/"
+                    "vendor/xqkeji/xq-res-admin-page/src/":"resource/xq-admin-page/"
                 }]
             }
         ],
@@ -32,7 +32,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-admin-page/src/":"resource/xq-admin-page/"
+                    "vendor/xqkeji/xq-res-admin-page/src/":"resource/xq-admin-page/"
                 }]
             }
         ],
